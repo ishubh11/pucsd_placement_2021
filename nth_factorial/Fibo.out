@@ -1,0 +1,16 @@
+1. Fibonacci number
+I/P  Fibo
+13    233
+21   10946
+31   1346269
+47  -132375223
+61   .......
+85   .......
+
+2. Nth even fibonacci number
+
+I/P   evenFibo
+3	34
+10	832040
+22	-1958435240
+26	375819880
